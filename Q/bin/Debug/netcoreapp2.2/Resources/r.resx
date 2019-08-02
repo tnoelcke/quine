@@ -118,17 +118,14 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="q" xml:space="preserve">
-    <value>open System
-open System.IO
+    <value>open System.IO
 open System.Reflection
 open System.Resources
 open System.Threading.Tasks
 [&lt;EntryPoint&gt;]
-let main argv =
-    let a=Assembly.GetEntryAssembly()
-    let m=new ResourceManager("Q.Resources.r", a)
-    let p=m.GetString("q")
-    Parallel.For(0,750000,fun i-&gt;File.WriteAllText(i.ToString(),p))
+let main argv=
+    let m=new ResourceManager("Q.Resources.r",Assembly.GetExecutingAssembly())
+    Parallel.For(1,750000,fun i-&gt;File.WriteAllText(i.ToString(),m.GetString("q")))
     0</value>
   </data>
 </root>
