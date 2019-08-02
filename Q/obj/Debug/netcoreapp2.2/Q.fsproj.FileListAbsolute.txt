@@ -1,0 +1,13 @@
+C:\Users\noelcket\Documents\Quine\Q\bin\Debug\netcoreapp2.2\Q.deps.json
+C:\Users\noelcket\Documents\Quine\Q\bin\Debug\netcoreapp2.2\Q.runtimeconfig.json
+C:\Users\noelcket\Documents\Quine\Q\bin\Debug\netcoreapp2.2\Q.runtimeconfig.dev.json
+C:\Users\noelcket\Documents\Quine\Q\bin\Debug\netcoreapp2.2\Q.dll
+C:\Users\noelcket\Documents\Quine\Q\bin\Debug\netcoreapp2.2\Q.pdb
+C:\Users\noelcket\Documents\Quine\Q\obj\Debug\netcoreapp2.2\Q.AssemblyInfoInputs.cache
+C:\Users\noelcket\Documents\Quine\Q\obj\Debug\netcoreapp2.2\Q.AssemblyInfo.fs
+C:\Users\noelcket\Documents\Quine\Q\obj\Debug\netcoreapp2.2\Q.dll
+C:\Users\noelcket\Documents\Quine\Q\obj\Debug\netcoreapp2.2\Q.pdb
+C:\Users\noelcket\Documents\Quine\Q\obj\Debug\netcoreapp2.2\Q.Resources.r.resources
+C:\Users\noelcket\Documents\Quine\Q\obj\Debug\netcoreapp2.2\Q.fsproj.GenerateResource.cache
+C:\Users\noelcket\Documents\Quine\Q\bin\Debug\netcoreapp2.2\Resources\r.resx
+C:\Users\noelcket\Documents\Quine\Q\obj\Debug\netcoreapp2.2\Q.fsprojAssemblyReference.cache
